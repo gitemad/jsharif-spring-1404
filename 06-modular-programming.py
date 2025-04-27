@@ -15,10 +15,14 @@ print(math.pi)
 
 # print(m.sin(m.pi))
 
-from math import (
-    degrees as deg,
-    pi,
-)
+# from math import (
+#     degrees as deg,
+#     pi,
+# )
 
-print(deg(pi))
+# print(deg(pi))
 
+import sample_module
+
+if __name__ == '__main__':
+    print('asddfsf')
