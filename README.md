@@ -1,1 +1,1 @@
-This is documentation for the project!
+This is documentation for the project
