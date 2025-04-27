@@ -11,7 +11,14 @@ print(math.pi)
 # print(sqrt(4))
 # print(sin(0))
 
-import math as m
+# import math as m
 
-print(m.sin(m.pi))
+# print(m.sin(m.pi))
+
+from math import (
+    degrees as deg,
+    pi,
+)
+
+print(deg(pi))
 
